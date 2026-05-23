@@ -1,2 +1,0 @@
-# heroic-adventure-quiz
-
